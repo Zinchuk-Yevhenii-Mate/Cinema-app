@@ -1,4 +1,4 @@
-﻿# Cinema app
+﻿# Cinema app  ![1505719599_178](https://user-images.githubusercontent.com/103262708/183136151-1be1a43f-6817-44a1-a9b5-2732db442d0e.jpg) 
 
 # Project purpose
 The Cinema application comprises the basic back-end functionality of a movie tickets online booking web application. 
