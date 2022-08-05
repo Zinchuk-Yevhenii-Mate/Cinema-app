@@ -1,7 +1,8 @@
 ﻿# Cinema app
 
 # Project purpose
-The project comprises the basic back-end functionality of a movie tickets online booking  web application. 
+The Cinema application comprises the basic back-end functionality of a movie tickets online booking web application. 
+The project is based on the Spring framework. The program also uses DTO projection and validation when communicating with the client.
 
 # Used technologies
 - Java 11
@@ -14,6 +15,7 @@ The project comprises the basic back-end functionality of a movie tickets online
 - Spring Security
 
 # Project structure
+The Cinema application is based N-tier architecture. It has 3 layers:
 
 - DAO layers, containing basic CRUD-operations
 - Service layers, containing business logic of the application
